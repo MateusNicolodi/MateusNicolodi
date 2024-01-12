@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![MateusNicolodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusNicolodi&show_icons=true&theme=merko)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNicolodi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNicolodi&layout=compact)
